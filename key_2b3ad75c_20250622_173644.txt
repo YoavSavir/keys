@@ -1,0 +1,23 @@
+
+=== DECRYPTION KEY INFORMATION ===
+Machine ID: 2b3ad75c-c725-4480-bb81-260b5f483611
+Hostname: ubuntu
+IP Address: 87.71.201.56
+OS: Linux-5.15.0-142-generic-aarch64-with-glibc2.35
+Encryption Date: 2025-06-22 17:36:44
+
+AES-256 Key (Base64): d5f386db47e4170baa29942a5e98db79890dba410c329d0fc83769217d8ebf4a
+IV (Base64): 97eb93a2f99c6561d7b625062fe4f173
+
+Files Encrypted: 1
+
+=== ENCRYPTED FILES LIST ===
+/home/ubuntu/Desktop/requirements.txt.encrypted
+
+=== DECRYPTION INSTRUCTIONS ===
+1. Run the decrypt_files.py script
+2. Enter Key
+3. All files will be restored to their original state
+
+This is an educational simulation. 
+In a real scenario, the key would be sent to a remote server.
