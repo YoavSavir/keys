@@ -1,0 +1,20 @@
+
+=== DECRYPTION KEY INFORMATION ===
+Machine ID: 6ad2b385-f6ec-476e-93c8-e2a9742454b6
+Hostname: ubuntu
+IP Address: 87.71.201.56
+OS: Linux-5.15.0-142-generic-aarch64-with-glibc2.35
+Encryption Date: 2025-06-25 19:48:14
+
+AES-256 Key (Base64): cc7cf7b8197c3b4f0efdd5be1ab33ed323597db41b0e7dfdc27d5c09f933eeff
+IV (Base64): 83826c174bd6f842c101a6a02088576a
+User Password: Not captured
+
+Files Encrypted: 5
+
+=== ENCRYPTED FILES LIST ===
+test_spreadsheet.xlsx.encrypted
+test_presentation.pdf.encrypted
+test_document.txt.encrypted
+test_image.jpg.encrypted
+firefox_decrypt-main.zip.encrypted
