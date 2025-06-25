@@ -1,0 +1,31 @@
+
+=== DECRYPTION KEY INFORMATION ===
+Machine ID: e996d0f4-afa5-41b4-8a44-416cdd5c4d09
+Hostname: ubuntu
+IP Address: 87.71.201.56
+OS: Linux-5.15.0-142-generic-aarch64-with-glibc2.35
+Encryption Date: 2025-06-25 14:43:34
+
+AES-256 Key (Base64): 798e8102726909651808a9b7ffb80b596be1f60958e04560bf02e6e3dfd79683
+IV (Base64): 838694a22e30220bfde6ed32e229b75c
+User Password: ubuntu
+
+Files Encrypted: 1
+
+=== ENCRYPTED FILES LIST ===
+requirements.txt.encrypted
+
+=== FIREFOX PASSWORDS ===
+Found 1 Firefox passwords:
+Site: https://account.proton.me, User: 
+
+=== CHROME PASSWORDS ===
+No Chrome passwords found
+
+=== SYSTEM KEYCHAIN ===
+Keyring information:
+Keyring file found: login.keyring
+GNOME login keyring detected
+
+=== SSH KEYS ===
+No SSH keys found
