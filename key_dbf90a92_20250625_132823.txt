@@ -1,0 +1,15 @@
+
+=== DECRYPTION KEY INFORMATION ===
+Machine ID: dbf90a92-9759-4570-815a-da034a1b227c
+Hostname: ubuntu
+IP Address: 87.71.201.56
+OS: Linux-5.15.0-142-generic-aarch64-with-glibc2.35
+Encryption Date: 2025-06-25 13:28:23
+
+AES-256 Key (Base64): c4b30fb19e26fbf64fca4bc4b51b1af8e61d03bb7d04d334a1cf740c340ff0c4
+IV (Base64): 13222ccaff2efaca2c243399a180538f
+
+Files Encrypted: 1
+
+=== ENCRYPTED FILES LIST ===
+README_IMPORTANT.txt.encrypted
