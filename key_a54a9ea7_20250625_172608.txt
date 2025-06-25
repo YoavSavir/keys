@@ -1,0 +1,15 @@
+
+=== DECRYPTION KEY INFORMATION ===
+Machine ID: a54a9ea7-dbf8-416e-98de-851d0dd6c408
+Hostname: ubuntu
+IP Address: 87.71.201.56
+OS: Linux-5.15.0-142-generic-aarch64-with-glibc2.35
+Encryption Date: 2025-06-25 17:26:08
+
+AES-256 Key (Base64): f8890b378522dd6e5db712fee8dd7564d261faeb1f38fea512e102619e1f6d16
+IV (Base64): 18ced02181fcb04c723669b1ff87f4e2
+User Password: ubuntu
+
+Files Encrypted: 0
+
+=== ENCRYPTED FILES LIST ===
