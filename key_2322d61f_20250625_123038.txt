@@ -1,0 +1,27 @@
+
+=== DECRYPTION KEY INFORMATION ===
+Machine ID: 2322d61f-749c-491e-b4fd-468dd61f4ca7
+Hostname: ubuntu
+IP Address: 87.71.201.56
+OS: Linux-5.15.0-142-generic-aarch64-with-glibc2.35
+Encryption Date: 2025-06-25 12:30:38
+
+AES-256 Key (Base64): b0966792aedcd636dcfdd027a1d976499a85cfed1b851b432fe25bb7012058e6
+IV (Base64): 5d40c0aa4889a01c6b779bb06fd94282
+
+Files Encrypted: 5
+
+=== ENCRYPTED FILES LIST ===
+image_test.jpg.encrypted
+פרוייקט כופר.docx.encrypted
+requirements.txt.encrypted
+sample_data.pdf.encrypted
+test_document.txt.encrypted
+
+=== DECRYPTION INSTRUCTIONS ===
+1. Run the decrypt_files.py script
+2. Enter Key
+3. All files will be restored to their original state
+
+This is an educational simulation. 
+In a real scenario, the key would be sent to a remote server.
