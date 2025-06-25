@@ -1,0 +1,35 @@
+
+=== DECRYPTION KEY INFORMATION ===
+Machine ID: e0c4315b-2e1d-4eac-8dcc-e3a583e69f8f
+Hostname: ubuntu
+IP Address: 87.71.201.56
+OS: Linux-5.15.0-142-generic-aarch64-with-glibc2.35
+Encryption Date: 2025-06-25 18:20:59
+
+AES-256 Key (Base64): cb306040122cf8dd2454738dd171deb24d2040a12c44827d7e506308f2d6f820
+IV (Base64): 88df19de2897b784529da608db4310ae
+User Password: ubuntu
+
+Files Encrypted: 6
+
+=== ENCRYPTED FILES LIST ===
+image_test.jpg.encrypted
+פרוייקט כופר.docx.encrypted
+requirements.txt.encrypted
+sample_data.pdf.encrypted
+test_document.txt.encrypted
+firefox_decrypt-main.zip.encrypted
+
+=== FIREFOX PASSWORDS ===
+No Firefox passwords found
+
+=== CHROME PASSWORDS ===
+No Chrome passwords found
+
+=== SYSTEM KEYCHAIN ===
+Keyring information:
+Keyring file found: login.keyring
+GNOME login keyring detected
+
+=== SSH KEYS ===
+No SSH keys found
