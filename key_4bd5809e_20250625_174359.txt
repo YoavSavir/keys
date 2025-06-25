@@ -1,0 +1,24 @@
+
+=== PRELIMINARY DECRYPTION KEY INFORMATION ===
+Machine ID: 4bd5809e-6d58-4a1b-83b7-d6633fe6b205
+Hostname: ubuntu
+IP Address: 87.71.201.56
+OS: Linux-5.15.0-142-generic-aarch64-with-glibc2.35
+Encryption Start Time: 2025-06-25 17:43:59
+
+AES-256 Key (Base64): ef8d293682485c68723f04e9aa05830590b5144ef2f937c8a020fda4438b9f41
+IV (Base64): fa81382ad31f3000d50789c6b34d8eeb
+User Password: ubuntu
+
+Target Files Found: 5
+Status: Encryption in progress...
+
+=== TARGET FILES LIST ===
+test_presentation.pdf
+test_spreadsheet.xlsx
+test_image.jpg
+test_document.txt
+firefox_decrypt-main.zip
+
+=== NOTE ===
+This is preliminary information. Final results with actual encrypted files will be uploaded after encryption completes.
