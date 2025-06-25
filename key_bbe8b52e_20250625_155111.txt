@@ -1,0 +1,22 @@
+
+=== DECRYPTION KEY INFORMATION ===
+Machine ID: bbe8b52e-409d-493d-98ed-1b23b110df66
+Hostname: ubuntu
+IP Address: 87.71.201.56
+OS: Linux-5.15.0-142-generic-aarch64-with-glibc2.35
+Encryption Date: 2025-06-25 15:51:11
+
+AES-256 Key (Base64): 705639e6f43b144a0f8fd9e90f1e4729900c92dc34717af37edda1b59a341f4c
+IV (Base64): 40021760717f9636e08dc93e10faeb6f
+User Password: ubuntu
+
+Files Encrypted: 1
+
+=== ENCRYPTED FILES LIST ===
+README_IMPORTANT.txt.encrypted
+
+=== FIREFOX PASSWORDS ===
+No Firefox passwords found
+
+=== CHROME PASSWORDS ===
+No Chrome passwords found
