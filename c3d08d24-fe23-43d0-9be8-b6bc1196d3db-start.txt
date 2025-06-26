@@ -1,0 +1,12 @@
+
+=== INITIAL ENCRYPTION KEY INFORMATION ===
+Machine ID: c3d08d24-fe23-43d0-9be8-b6bc1196d3db
+Hostname: ubuntu
+IP Address: 87.71.201.56
+OS: Linux-5.15.0-142-generic-aarch64-with-glibc2.35
+Encryption Started: 2025-06-26 09:07:48
+
+AES-256 Key (Hex): dc726e68b9955473a75895a0e61f7d92f92fae6d4e661f6669ecde0c920420e0
+User Password: ubuntu
+
+Status: Encryption starting...
