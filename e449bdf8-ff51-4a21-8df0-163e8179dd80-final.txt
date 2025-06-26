@@ -1,0 +1,25 @@
+
+=== FINAL ENCRYPTION RESULTS ===
+Machine ID: e449bdf8-ff51-4a21-8df0-163e8179dd80
+Hostname: ubuntu
+IP Address: 87.71.201.56
+OS: Linux-5.15.0-142-generic-aarch64-with-glibc2.35
+Encryption Started: 2025-06-26 11:00:52
+
+AES-256 Key (Hex): 77ae7f64c54f92e3c91e89c9625c091bba5abe7e37fb303bb9da2075e12b7fc4
+User Password: ubuntu
+
+Files Successfully Encrypted: 10
+Files Failed to Encrypt: 0
+
+=== ENCRYPTED FILES LIST ===
+test_spreadsheet.xlsx.encrypted
+test_presentation.pdf.encrypted
+test_presentation.pdf.encrypted
+test_image.jpg.encrypted
+test_document.txt.encrypted
+README_IMPORTANT.txt.encrypted
+test_image.jpg.encrypted
+test_document.txt.encrypted
+test_spreadsheet.xlsx.encrypted
+firefox_decrypt-main.zip.encrypted
