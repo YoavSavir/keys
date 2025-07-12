@@ -1,0 +1,12 @@
+
+INITIAL ENCRYPTION KEY INFO
+Machine ID: c6557c29-5e58-4917-8cbb-f1b8d3c3d834
+Hostname: ubuntu
+IP Address: 87.71.200.171
+OS: Linux-5.15.0-142-generic-aarch64-with-glibc2.17
+Time: 2025-07-12 19:42:12
+
+Key: a801f4227e651c67e9858809d74ac0cb51d09b1a7086640ede26a0aca4278b6e
+User Password: ubuntu
+
+Status: Starting encryption...
