@@ -1,0 +1,48 @@
+
+FINAL RESULTS 
+Machine ID: 5bf30383-ddf5-4d30-a629-896637118f6a
+Hostname: ubuntu
+IP Address: 87.71.200.171
+OS: Linux-5.15.0-142-generic-aarch64-with-glibc2.17
+Time: 2025-07-12 20:19:50
+
+Key: 16a5c66ddb26ab96539c2c25d212fb27f2c0c12e0d6d68dace52105a918f8cfa
+User Password: ubuntu
+
+Files Encrypted: 33
+Files Failed: 0
+
+ ENCRYPTED FILES
+test_spreadsheet.xlsx.encrypted
+test_presentation.pdf.encrypted
+test_document.txt.encrypted
+README_IMPORTANT.txt.encrypted
+test_spreadsheet.xlsx.encrypted
+test_presentation.pdf.encrypted
+test_document.txt.encrypted
+test_image.jpg.encrypted
+PolymarketTrader_Final_Project.zip.encrypted
+firefox_decrypt-main.zip.encrypted
+._recon-ng-yoavsavir@gmail.com.txt.encrypted
+._recon-ng 2.png.encrypted
+recon-ng-yoavsavir@gmail.com.txt.encrypted
+._recon-ng.png.encrypted
+test_image.jpg.encrypted
+holele.png.encrypted
+holele.txt.encrypted
+recon-ng-yoavsavir.txt.encrypted
+Screenshot sherlock.png.encrypted
+._Screenshot sherlock.png.encrypted
+._recon-ng 3.png.encrypted
+._recon-ng 1.png.encrypted
+recon-ng.png.encrypted
+recon-ng 2.png.encrypted
+._recon-ng-yoavsavir.txt.encrypted
+._holele.txt.encrypted
+sherlock_yoavsavir.txt.encrypted
+._sherlock_theyoavsavir.txt.encrypted
+._holele.png.encrypted
+recon-ng 3.png.encrypted
+sherlock_theyoavsavir.txt.encrypted
+._sherlock_yoavsavir.txt.encrypted
+recon-ng 1.png.encrypted
