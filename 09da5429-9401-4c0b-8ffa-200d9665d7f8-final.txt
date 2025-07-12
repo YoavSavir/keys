@@ -1,0 +1,28 @@
+
+FINAL RESULTS 
+Machine ID: 09da5429-9401-4c0b-8ffa-200d9665d7f8
+Hostname: ubuntu
+IP Address: 87.71.200.171
+OS: Linux-5.15.0-142-generic-aarch64-with-glibc2.17
+Time: 2025-07-12 14:22:49
+
+Key: 6402fb486559414fa70300169097df5c5f3d93787699d196ecf7559fccf065da
+User Password: ubuntu
+
+Files Encrypted: 13
+Files Failed: 0
+
+ ENCRYPTED FILES
+README_IMPORTANT.txt.encrypted
+test_spreadsheet.xlsx.encrypted
+test_presentation.pdf.encrypted
+test_image.jpg.encrypted
+test_spreadsheet.xlsx.encrypted
+test_document.txt.encrypted
+test_presentation.pdf.encrypted
+test_image.jpg.encrypted
+test_presentation.pdf.encrypted
+firefox_decrypt-main.zip.encrypted
+test_document.txt.encrypted
+test_spreadsheet.xlsx.encrypted
+test_image.jpg.encrypted
