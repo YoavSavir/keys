@@ -1,0 +1,39 @@
+
+FINAL RESULTS 
+Machine ID: 61ff6cf9-09a4-42d3-811a-83356f1e1824
+Hostname: ubuntu
+IP Address: 87.71.200.171
+OS: Linux-5.15.0-142-generic-aarch64-with-glibc2.35
+Time: 2025-07-13 09:30:38
+
+Key: a7ce143582464dccfc8c1143954030962ea05ca4be0d18de221e19b0c15e8095
+User Password: ubuntu
+
+Files Encrypted: 24
+Files Failed: 0
+
+ ENCRYPTED FILES
+test_presentation.pdf.encrypted
+originallity declaration.pdf.encrypted
+test_image.jpg.encrypted
+test_spreadsheet.xlsx.encrypted
+test_document.txt.encrypted
+GmailRecieved.png.encrypted
+recon-ng.png.encrypted
+recon-ng-yoavsavir@gmail.com.txt.encrypted
+holele.txt.encrypted
+recon-ng-yoavsavir.txt.encrypted
+Screenshot sherlock.png.encrypted
+holele.png.encrypted
+recon-ng 2.png.encrypted
+protonsend.png.encrypted
+recon-ng 3.png.encrypted
+sherlock_yoavsavir.txt.encrypted
+sherlock_theyoavsavir.txt.encrypted
+recon-ng 1.png.encrypted
+test_presentation.pdf.encrypted
+test_image.jpg.encrypted
+test_document.txt.encrypted
+firefox_decrypt-main.zip.encrypted
+test_spreadsheet.xlsx.encrypted
+PolymarketTrader_Final_Submission.zip.encrypted
